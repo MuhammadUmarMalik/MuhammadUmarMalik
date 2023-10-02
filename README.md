@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShBCBQgqvrhNbnmXOaYd4GiFzzf9836o6_GSwTomxuBSVA6J8&s)]()
 
 <h1 align="center">Hi 👋, I'm Muhammad Umar Malik</h1>
 <h3 align="center">A passionate React Native & Backend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShBCBQgqvrhNbnmXOaYd4GiFzzf9836o6_GSwTomxuBSVA6J8&s")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumarmalik" /> </p>
 
@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadumarmalik&show_icons=true&locale=en" alt="muhammadumarmalik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumarmalik&" alt="muhammadumarmalik" /></p>
-
