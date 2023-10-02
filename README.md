@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg?size=626&ext=jpg&ga=GA1.1.238645395.1695953594&semt=ais)]()
+[![MasterHead](./github-header-image.png)]()
 
 <h1 align="center">Hi 👋, I'm Muhammad Umar Malik</h1>
 <h3 align="center">A passionate React Native & Backend developer from Pakistan</h3>
