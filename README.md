@@ -1,14 +1,10 @@
-### Hi there 👋
-
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShBCBQgqvrhNbnmXOaYd4GiFzzf9836o6_GSwTomxuBSVA6J8&s)]()
+[![MasterHead](https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg?size=626&ext=jpg&ga=GA1.1.238645395.1695953594&semt=ais)]()
 
 <h1 align="center">Hi 👋, I'm Muhammad Umar Malik</h1>
 <h3 align="center">A passionate React Native & Backend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShBCBQgqvrhNbnmXOaYd4GiFzzf9836o6_GSwTomxuBSVA6J8&s"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumarmalik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumarmalik" alt="muhammadumarmalik" /></a> </p>
 
 - 🔭 I’m currently working on **Sales Management System**
 
@@ -16,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Result Management System**
 
-- 💬 Ask me about **Adonis.js,nest.js,React Native**
+- 💬 Ask me about **Adonis.js, nest.js, React Native**
 
 - 📫 How to reach me **umarmalik.cs711@gmail.com**
 
@@ -35,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadumarmalik&show_icons=true&locale=en" alt="muhammadumarmalik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumarmalik&" alt="muhammadumarmalik" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumarmalik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumarmalik" alt="muhammadumarmalik" /></a> </p>
