@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Umar Malik</h1>
 <h3 align="center">A passionate React Native & Backend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShBCBQgqvrhNbnmXOaYd4GiFzzf9836o6_GSwTomxuBSVA6J8&s")
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShBCBQgqvrhNbnmXOaYd4GiFzzf9836o6_GSwTomxuBSVA6J8&s"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumarmalik" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Result Management System**
 
-- 💬 Ask me about **Adonis.js, nest.js, React Native**
+- 💬 Ask me about **Adonis.js,nest.js,React Native**
 
 - 📫 How to reach me **umarmalik.cs711@gmail.com**
 
