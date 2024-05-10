@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Sales Management System**
+- 🔭 I’m currently working on **Blood Stream**
 
 - 🌱 I’m currently learning **React Native & nest.js**
 
