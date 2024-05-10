@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native & nest.js**
 
-- 👯 I’m looking to collaborate on **Result Management System**
+- 👯 I’m looking to collaborate on **Blood Stream**
 
 - 💬 Ask me about **Adonis.js, nest.js, React Native**
 
