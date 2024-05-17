@@ -28,8 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadumarmalik&show_icons=true&locale=en&layout=compact" alt="muhammadumarmalik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadumarmalik&show_icons=true&locale=en" alt="muhammadumarmalik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumarmalik&" alt="muhammadumarmalik" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumarmalik" /> </p>
 
