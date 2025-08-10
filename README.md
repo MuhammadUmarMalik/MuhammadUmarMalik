@@ -1,24 +1,77 @@
-[![Header](./profile-header.png)]()
+<!-- Profile Banner -->
+[![MasterHead](./github-header-image.png)]()
 
-<h1 align="center">Hi, I'm Muhammad Umar Malik 👋</h1>
+<h1 align="center">Hey there 👋, I'm Muhammad Umar Malik</h1>
+<h3 align="center">🚀 Full Stack Engineer | React.js • React Native • Node.js • Adonis.js • PostgreSQL • Tailwind CSS</h3>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg…[typing effect]…">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D80F0&center=true&vCenter=true&width=800&lines=I+build+scalable+Web+%26+Mobile+Apps;Helping+Startups+and+Agencies+Grow;Open+Source+Contributor+%26+Lifelong+Learner;From+Idea+to+Production+Ready+Apps" alt="Typing SVG" />
 </p>
 
-##  About Me
-- Passionate **Full Stack Engineer** from Pakistan
-- Currently working on **Blood Stream** using React Native & Nest.js
-- Skills: React.js · React Native · Node.js · Adonis.js · PostgreSQL · Tailwind CSS
+<!-- About Section -->
+## 👨‍💻 About Me
+I’m a **passionate Full Stack Developer** from Pakistan, helping **startups, entrepreneurs, and agencies** bring their ideas to life.  
+I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and **PostgreSQL** to create **high-performing** and **user-friendly** applications.
 
-##  Featured Projects
-- **Blood Stream** — real-time health app (React Native, Nest.js, Firebase)
-- **Bidders Pro Website** — B2B booking platform (Next.js, TypeScript, Tailwind, PostgreSQL)
+- 🔭 **Currently working on:** [Blood Stream](#) – A real-time health-tech solution  
+- 🌱 **Currently learning:** React Native & Nest.js  
+- 🤝 **Open to collaborate on:** B2B SaaS & Mobile Apps  
+- 💬 **Ask me about:** Adonis.js, Nest.js, React Native  
+- 📫 **Reach me at:** umarmalik.cs711@gmail.com  
 
-##  Stats & Activity
+---
+
+<!-- Tech Stack Badges -->
+## 🛠 Tech Stack
 <p align="center">
-  <!-- GitHub stats and streak cards here -->
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-darkblue?logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Framework-Adonis.js-purple" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-teal?logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Cloud-Firebase-orange?logo=firebase" />
 </p>
 
-##  Connect With Me
-[LinkedIn] [Instagram] [HackerEarth]
+---
 
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+### 🔹 [Blood Stream](#)
+**Tech:** React Native, Nest.js, Firebase  
+- Mobile app for **real-time blood donation tracking** and volunteer management.
+
+### 🔹 [Bidders Pro Website](https://bidderspro.com)  
+**Tech:** Next.js 15, React 19, TypeScript, Tailwind CSS, PostgreSQL  
+- Built a **B2B automation platform** with a dynamic booking system and SEO optimization.
+
+### 🔹 [LinkedIn Job Scraper Desktop App](https://github.com/bidderspro/linkedin-job-crawler)  
+**Tech:** Node.js, Express.js, Electron.js  
+- Automated LinkedIn job search with filtering by **job title** and **location**.
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumarmalik&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumarmalik&theme=radical" height="165" />
+</p>
+
+---
+
+<!-- Connect -->
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-umar-malik786/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/umarmalik4265"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerearth.com/@muhammadumarmalik"><img src="https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer with Quote -->
+💡 *"Turning innovative ideas into scalable, high-performance digital products that make an impact."*
