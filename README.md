@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-[![MasterHead](./github-header-image.png)]()
+[![MasterHead](./github-header-new.png)]()
 
 <h1 align="center">Hey there 👋, I'm Muhammad Umar Malik</h1>
 <h3 align="center">🚀 Full Stack Engineer | React.js • React Native • Node.js • Adonis.js • PostgreSQL • Tailwind CSS</h3>
