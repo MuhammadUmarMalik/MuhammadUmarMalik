@@ -61,7 +61,7 @@ I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and 
 **Tech:** React.js, Tailwind CSS  
 <p align="center">
   <a href="https://loan-calculator-app-topaz.vercel.app/">
-    <img src="https://raw.githubusercontent.com/muhammadumarmalik/loan-calculator-app/main/public/preview.png" alt="Loan Calculator Preview" width="600"/>
+    <img src="./loan-calculator-app.png" alt="Loan Calculator Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
   </a>
 </p>
 
@@ -71,17 +71,17 @@ I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and 
 **Tech:** Next.js, Tailwind CSS  
 <p align="center">
   <a href="https://click-smart-gules.vercel.app/">
-    <img src="https://raw.githubusercontent.com/muhammadumarmalik/clicksmart-landing/main/public/preview.png" alt="ClickSmart Landing Page" width="600"/>
+    <img src="./clicksmart-landing-page.png" alt="ClickSmart Landing Page Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
   </a>
 </p>
 
 ---
 
 ### 🔹 [Appliance Quick Repair Fix](https://www.appliancequickrepairfix.com/)  
-**Tech:** NEXT.JS,Tailwind CSS, Custom Theme  
+**Tech:** WordPress, Custom Theme  
 <p align="center">
   <a href="https://www.appliancequickrepairfix.com/">
-    <img src="https://www.appliancequickrepairfix.com/wp-content/uploads/2024/05/homepage-screenshot.png" alt="Appliance Quick Repair Fix" width="600"/>
+    <img src="./quick-repair-landing-page.png" alt="Quick Repair Landing Page Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
   </a>
 </p>
 
