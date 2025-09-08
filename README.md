@@ -16,8 +16,8 @@ I’m a **passionate Full Stack Developer** from Pakistan, helping **startups, e
 I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and **PostgreSQL** to create **high-performing** and **user-friendly** applications.
 
 - 🔭 **Currently working on:** [Blood Stream](#) – A real-time health-tech solution  
-- 🌱 **Currently learning:** React Native & Nest.js  
-- 🤝 **Open to collaborate on:** B2B SaaS & Mobile Apps  
+- 🌱 **Learning next:** React Native & Nest.js  
+- 🤝 **Collaboration focus:** B2B SaaS & Mobile Apps  
 - 💬 **Ask me about:** Adonis.js, Nest.js, React Native  
 - 📫 **Reach me at:** umarmalik.cs711@gmail.com  
 
@@ -41,49 +41,37 @@ I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and 
 
 ### 🔹 [Blood Stream](#)
 **Tech:** React Native, Nest.js, Firebase  
-- Mobile app for **real-time blood donation tracking** and volunteer management.  
+Mobile app for **real-time blood donation tracking** and volunteer management.  
 
 ---
 
 ### 🔹 [Bidders Pro Website](https://bidderspro.com)  
 **Tech:** Next.js 15, React 19, TypeScript, Tailwind CSS, PostgreSQL  
-- Built a **B2B automation platform** with a dynamic booking system and SEO optimization.  
+A **B2B automation platform** with a dynamic booking system and SEO optimization.  
 
 ---
 
 ### 🔹 [LinkedIn Job Scraper Desktop App](https://github.com/bidderspro/linkedin-job-crawler)  
 **Tech:** Node.js, Express.js, Electron.js  
-- Automated LinkedIn job search with filtering by **job title** and **location**.  
+Automates LinkedIn job search with advanced **job title + location filtering**.  
 
 ---
 
 ### 🔹 [Loan Calculator App](https://loan-calculator-app-topaz.vercel.app/)  
 **Tech:** React.js, Tailwind CSS  
-<p align="center">
-  <a href="https://loan-calculator-app-topaz.vercel.app/">
-    <img src="loan-calculator-app.png" alt="Loan Calculator Preview" width="600" height="600" style="object-fit:cover; border-radius:10px;" />
-  </a>
-</p>
+A simple, responsive calculator for **loan estimations** with clean UI.  
 
 ---
 
 ### 🔹 [ClickSmart Landing Page](https://click-smart-gules.vercel.app/)  
 **Tech:** Next.js, Tailwind CSS  
-<p align="center">
-  <a href="https://click-smart-gules.vercel.app/">
-    <img src="./clicksmart-landing-page.png" alt="ClickSmart Landing Page Preview" width="600" height="600" style="object-fit:cover; border-radius:10px;" />
-  </a>
-</p>
+Conversion-focused **landing page** optimized for speed and SEO.  
 
 ---
 
 ### 🔹 [Appliance Quick Repair Fix](https://www.appliancequickrepairfix.com/)  
 **Tech:** WordPress, Custom Theme  
-<p align="center">
-  <a href="https://www.appliancequickrepairfix.com/">
-    <img src="quick-repair-landing-page.png" alt="Quick Repair Landing Page Preview" width="600" height="600" style="object-fit:cover; border-radius:10px;" />
-  </a>
-</p>
+Business website with **custom design & service booking system**.  
 
 ---
 
