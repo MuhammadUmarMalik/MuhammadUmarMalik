@@ -61,7 +61,7 @@ I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and 
 **Tech:** React.js, Tailwind CSS  
 <p align="center">
   <a href="https://loan-calculator-app-topaz.vercel.app/">
-    <img src="./loan-calculator-app.png" alt="Loan Calculator Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
+    <img src="./loan-calculator-hero.png" alt="Loan Calculator Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@ I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and 
 **Tech:** Next.js, Tailwind CSS  
 <p align="center">
   <a href="https://click-smart-gules.vercel.app/">
-    <img src="./clicksmart-landing-page.png" alt="ClickSmart Landing Page Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
+    <img src="./clicksmart-hero.png" alt="ClickSmart Landing Page Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@ I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and 
 **Tech:** WordPress, Custom Theme  
 <p align="center">
   <a href="https://www.appliancequickrepairfix.com/">
-    <img src="./quick-repair-landing-page.png" alt="Quick Repair Landing Page Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
+    <img src="./quick-repair-hero.png" alt="Quick Repair Landing Page Preview" width="600" height="300" style="object-fit:cover; border-radius:10px;" />
   </a>
 </p>
 
