@@ -4,6 +4,11 @@
 <h1 align="center">Hey there 👋, I'm Muhammad Umar Malik</h1>
 <h3 align="center">🚀 Full Stack Engineer | React.js • React Native • Node.js • Adonis.js • PostgreSQL • Tailwind CSS</h3>
 
+<!-- Portfolio Link -->
+<p align="center">
+  🌐 <a href="https://umar-dev-eight.vercel.app/" target="_blank"><b>Check out my Portfolio Website →</b></a>
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D80F0&center=true&vCenter=true&width=800&lines=I+build+scalable+Web+%26+Mobile+Apps;Helping+Startups+and+Agencies+Grow;Open+Source+Contributor+%26+Lifelong+Learner;From+Idea+to+Production+Ready+Apps" alt="Typing SVG" />
@@ -85,6 +90,7 @@ Business website with **custom design & service booking system**.
 
 ## 🌍 Connect With Me
 <p align="center">
+  <a href="https://umar-dev-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/umarmalik-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/umarmalik4265"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://www.hackerearth.com/@muhammadumarmalik"><img src="https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&logoColor=white" /></a>
