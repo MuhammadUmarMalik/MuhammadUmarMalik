@@ -55,6 +55,32 @@ Repo: https://github.com/muhammadumarmalik/Rice-Factory-Software
 
 ---
 
+### 🔹 [FusionOTP](https://www.fusionotp.com/)
+**Tech:** Next.js 16, React 19, Tailwind CSS, Express, Prisma, PostgreSQL, Redis  
+Full-stack platform for **buying disposable phone numbers with OTP verification**, wallet management, and admin operations.  
+
+---
+
+### 🔹 [Softex Solutions](https://softexsolutions.tech/)
+**Tech:** Next.js 15, TypeScript, Tailwind CSS  
+Software agency website for **local service businesses** — fast websites, automation, local SEO and custom software.  
+Repo: https://github.com/MuhammadUmarMalik/fast-solutions
+
+---
+
+### 🔹 [Devzoo](https://thedevzoo.com/)
+**Tech:** Next.js 16, React 19, Tailwind CSS  
+Digital agency website for **startups and small businesses** — web development, marketing and design.  
+Repo: https://github.com/MuhammadUmarMalik/devzoo-website
+
+---
+
+### 🔹 Department Management App
+**Tech:** Next.js, TypeScript, Tailwind CSS, Express, Prisma, PostgreSQL  
+Web app for a **university department** — HOD, teacher and student roles with marks, attendance, results and audit logs.  
+
+---
+
 ### 🔹 [Blood Stream](#)
 **Tech:** React Native, Nest.js, Firebase  
 Mobile app for **real-time blood donation tracking** and volunteer management.  
@@ -73,21 +99,9 @@ Automates LinkedIn job search with advanced **job title + location filtering**.
 
 ---
 
-### 🔹 [Loan Calculator App](https://loan-calculator-app-topaz.vercel.app/)  
-**Tech:** React.js, Tailwind CSS  
-A simple, responsive calculator for **loan estimations** with clean UI.  
-
----
-
-### 🔹 [ClickSmart Landing Page](https://click-smart-gules.vercel.app/)  
-**Tech:** Next.js, Tailwind CSS  
-Conversion-focused **landing page** optimized for speed and SEO.  
-
----
-
-### 🔹 [Appliance Quick Repair Fix](https://www.appliancequickrepairfix.com/)  
-**Tech:** WordPress, Custom Theme  
-Business website with **custom design & service booking system**.  
+### 🔹 [Oil Agency POS](https://github.com/MuhammadUmarMalik/Gahee-agency-software)
+**Tech:** Electron, React, TypeScript, Prisma  
+Desktop POS for a **cooking oil and ghee agency** — role-based access, secure login with account lockout, and audit logs.
 
 ---
 
