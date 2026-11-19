@@ -44,6 +44,17 @@ I specialize in **React.js**, **React Native**, **Node.js**, **Adonis.js**, and 
 
 ## 🚀 Featured Projects
 
+### 🔹 MUNSHI — Rice Mill ERP
+
+**Tech:** React, TypeScript, Vite, Tailwind CSS, Express, Drizzle ORM, SQLite, Electron
+
+A full-stack ERP for rice mills: purchases with charges, processing,
+stock, sales, accounts, HR/payroll, and print-ready reports.
+
+Repo: https://github.com/muhammadumarmalik/Rice-Factory-Software
+
+---
+
 ### 🔹 [Blood Stream](#)
 **Tech:** React Native, Nest.js, Firebase  
 Mobile app for **real-time blood donation tracking** and volunteer management.  
