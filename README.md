@@ -6,7 +6,7 @@
 
 <!-- Portfolio Link -->
 <p align="center">
-  🌐 <a href="https://umar-dev-eight.vercel.app/" target="_blank"><b>Check out my Portfolio Website →</b></a>
+  🌐 <a href="https://umarmalik-dev.com/" target="_blank"><b>Check out my Portfolio Website →</b></a>
 </p>
 
 <!-- Typing Animation -->
@@ -101,7 +101,7 @@ Business website with **custom design & service booking system**.
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://umar-dev-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="https://umarmalik-dev.com/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/umarmalik-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/umarmalik4265"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://www.hackerearth.com/@muhammadumarmalik"><img src="https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&logoColor=white" /></a>
